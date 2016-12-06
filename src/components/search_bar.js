@@ -5,6 +5,7 @@ class SearchBar extends Component {
     super(props);
 
     this.state = { term: ''};
+    //Property 'term' can be replaced by any other word. default value is empty
   }
 
   render() {
