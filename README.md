@@ -11,7 +11,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:reoim/React-Redux.git
+	> git clone git@github.com:reoim/Youtube-Search-App.git
 	> cd React-Redux
 	> npm install
 	> npm start
